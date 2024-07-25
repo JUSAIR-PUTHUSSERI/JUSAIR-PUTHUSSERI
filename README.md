@@ -2,10 +2,10 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JUSAIR-PUTHUSSERI&show_icons=true" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JUSAIR-PUTHUSSERI&show_icons=true" alt="GitHub stats">
 </p>
 
-<h2 align="center">Connect with me:</h2>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://github.com/JUSAIR-PUTHUSSERI"><img src='https://img.icons8.com/ios-filled/50/ffffff/github.png' alt='github' height='45'></a> 
     <a href="https://www.instagram.com/jusair_jsr/"><img src='https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png' alt='instagram' height='45'></a>
@@ -44,9 +44,7 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="70"/> 
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="70"/> 
-    </a>
+   
 </p>
 
 ### Backend:
@@ -54,16 +52,13 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="70"/> 
     </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="70"/> 
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="70"/> 
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="70"/> 
+     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="70"/> 
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="70"/> 
     </a>
 </p>
@@ -75,9 +70,6 @@
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="70"/> 
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="70"/> 
     </a>
 </p>
 
@@ -91,9 +83,4 @@
     </a>
 </p>
 
-### Git:
-<p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="70"/> 
-    </a>
-</p>
+
